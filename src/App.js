@@ -28,7 +28,7 @@ function App() {
             onChange={Changegarne}
             className='border border-blue-700'
           />
-          <button className='px-[6px] py-[3px] bg-green-600' onClick={Clickgarne}>
+          <button className='px-[6px] py-[3px] bg-green-700' onClick={Clickgarne}>
             Search
           </button>
         </div>
