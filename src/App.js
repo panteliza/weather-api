@@ -20,7 +20,7 @@ function App() {
   return (
     <div className='bg-gray-700'>
       <div className="flex flex-col items-center justify-center gap-[50px] pt-[70px]">
-        <div className='text-white text-[40px] font-bold'>Weather App</div>
+        <div className='text-white text-[40px] font-bold'>Eliza's Weather App</div>
         <div className="flex gap-[3px]">
           <input
             type='text'
